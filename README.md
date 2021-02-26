@@ -32,7 +32,7 @@ Find Me Here
   <img align="left" alt="Kiko's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614361241~hmac=1735b9252a8876d4d60dd4c01e04d834" />
 </a>
 <a href="https://www.facebook.com/">
-  <img align="left" alt="Kiko's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kiko's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Kiko's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
