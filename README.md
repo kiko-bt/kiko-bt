@@ -8,7 +8,6 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
   
   
 <br>
-<br>
 <hr>
 
 
@@ -19,7 +18,6 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <li><a href="https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view">Resume  <span> 📝 </span></a></li> 
 
 
-<br>
 <br>
 <hr>
 
@@ -36,12 +34,8 @@ Find Me Here
 </a>
 
 
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 **Languages**  
