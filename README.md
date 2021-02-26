@@ -17,19 +17,13 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
-
-<br>
 <hr>
-
-
 
 💬 Ask me about anything
 
 <li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
 <li><a href="https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view">Resume  <span> 📝 </span></a></li> 
 
-
-<br>
 <hr>
 
 Find Me Here
