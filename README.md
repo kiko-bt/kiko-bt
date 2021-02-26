@@ -18,6 +18,11 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 
+<br>
+<hr>
+
+
+
 💬 Ask me about anything
 
 <li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
@@ -38,13 +43,6 @@ Find Me Here
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Kiko's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-<br>
-<br>
-<br>
-<hr>
-
 
 
 
