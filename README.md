@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
 
-- 📝 [Resume](https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view)
+📝[Resume](https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view)
 
 **Languages**  
 
