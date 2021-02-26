@@ -12,9 +12,11 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <li><a href="https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view">Resume  <span>📝 </span></a></li> 
 
 
+<br>
+<br>
+
 
 **Languages**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -27,7 +29,7 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <br>
 
 
-<p style="color:blue;">Find me here</p>
+<p>Find me here</p>
 <a href="https://www.facebook.com/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
