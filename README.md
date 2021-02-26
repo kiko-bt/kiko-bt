@@ -8,7 +8,7 @@ Hi, I'm Hristijan Petrovski passionate web developer and aesthetics for modern t
 <hr>
 
 
-🔧 **Languages I work with**  
+:snowflake: **Languages I work with**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
