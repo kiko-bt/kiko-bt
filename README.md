@@ -24,8 +24,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
+- <li><a href="mailto:kiko-bt@hotmail.com">Hristijan</a></li>
+- 📫 Find me here: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝 [Resume](https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view)
 
 **Languages**  
