@@ -25,7 +25,7 @@ Hi, I'm Hristijan Petrovski passionate web developer and aesthetics for modern t
 
 <hr>
 
-Find Me Here
+:earth_africa: Find Me Here
 
 <a href="https://www.instagram.com/">
   <img align="left" alt="Kiko's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614361241~hmac=1735b9252a8876d4d60dd4c01e04d834" />
