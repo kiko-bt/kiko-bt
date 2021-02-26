@@ -28,7 +28,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
-**Languages and Tools:**  
+**Languages**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
