@@ -20,7 +20,7 @@ Hi, I'm Hristijan Petrovski passionate web developer and aesthetics for modern t
 
 💬 Ask me about anything
 
-<li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
+<li><a href="mailto:kiko-bt@hotmail.com">E-mail:</a>  <span> 📫 </span> </li> 
 <li><a href="https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view">Resume</a> <span> 📝 </span> </li> 
 
 <hr>
