@@ -24,9 +24,10 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 <br>
 <br>
 <br>
+<br>
 
 
-Find me here
+<p style="color:blue;">Find me here</p>
 <a href="https://www.facebook.com/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
