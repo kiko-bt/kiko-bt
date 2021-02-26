@@ -9,8 +9,9 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 💬 Ask me about anything
 
 <li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
+<li><a href="https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view">E-mail:  <span>📝 </span>Resume</a></li> 
 
-📝[Resume](https://drive.google.com/file/d/1VktZuBqyY9ssvL4LOjtA5SROMngRSYHR/view)
+
 
 **Languages**  
 
