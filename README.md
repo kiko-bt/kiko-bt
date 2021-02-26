@@ -41,30 +41,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
+
 C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
 JavaScript   4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
 CSS          2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,561 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 592 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
