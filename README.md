@@ -6,6 +6,11 @@ Hi, I'm Hristijan Petrovski a passionate self-taught Full Stack web developer an
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  
+<br>
+<br>
+
+  
 💬 Ask me about anything
 
 <li><a href="mailto:kiko-bt@hotmail.com">E-mail:  <span> 📫 </span></a></li> 
