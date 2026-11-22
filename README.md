@@ -13,3 +13,5 @@ I build backend services and React applications. I have 5+ years of professional
 Most of my professional work lives in private repositories.
 
 **Find me:** [LinkedIn](https://www.linkedin.com/in/hristijanpetrovski) · [CV (PDF)](https://hristijanpetrovski.dev/cv.pdf) · [Portfolio](https://hristijanpetrovski.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-bt&layout=compact&theme=tokyonight)](https://github.com/kiko-bt/github-readme-stats)
