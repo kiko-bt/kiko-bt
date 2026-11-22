@@ -10,11 +10,6 @@ I build backend services and React applications. I have 5+ years of professional
 - **Frontend:** React, TypeScript, TanStack Query, Next.js
 - **Testing and delivery:** xUnit, integration testing (Testcontainers, WireMock), Azure DevOps, GitHub Actions
 
-Most of my professional work lives in private repositories. The pinned repositories below are personal and learning projects.
+Most of my professional work lives in private repositories.
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/hristijanpetrovski) · [CV (PDF)](https://hristijanpetrovski.dev/cv.pdf)
-
-<!-- After launch, append to the line above:  · [Portfolio](https://hristijanpetrovski.dev) -->
-
-
-<!-- Stats: paste your two existing card lines below. On the GitHub Stats card, add &hide_rank=true to its URL, or delete that card and keep only Most Used Languages. -->
+**Find me:** [LinkedIn](https://www.linkedin.com/in/hristijanpetrovski) · [CV (PDF)](https://hristijanpetrovski.dev/cv.pdf) · [Portfolio](https://hristijanpetrovski.dev)
