@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer · .NET · Azure · React**
 
-I have 5+ years of professional .NET experience, including 4+ years building Azure-based backend services and React applications for the UK education sector. I use GitHub Copilot and Claude Code in agentic engineering workflows, with human review of every change.
+I have 5+ years of professional .NET experience, including 4+ years building Azure-based backend services and React applications. I use GitHub Copilot and Claude Code in agentic engineering workflows, with human review of every change.
 
 ### 🛠️ Tech stack
 
@@ -10,7 +10,7 @@ I have 5+ years of professional .NET experience, including 4+ years building Azu
 - **Azure:** Azure Functions, Blob Storage, Key Vault
 - **Data:** SQL Server, T-SQL, Dapper, EF Core
 - **Frontend:** React, TypeScript, TanStack Query, Next.js, Tailwind CSS, SCSS
-- **Testing and delivery:** xUnit, integration testing (Testcontainers, WireMock), Azure DevOps, GitHub Actions
+- **Testing and delivery:** xUnit, Integration testing (Testcontainers, WireMock), Jest, Azure DevOps, GitHub Actions
 
 🔒 Most of my professional work lives in private repositories.
 
